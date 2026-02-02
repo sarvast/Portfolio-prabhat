@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prabhat-sharma.vercel.app/sitemap.xml
