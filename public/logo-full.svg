@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;family=Inter:wght@400&amp;display=swap');
+      .heading { font-family: 'Playfair Display', serif; font-weight: 700; }
+      .sub { font-family: 'Inter', sans-serif; font-weight: 400; letter-spacing: 0.2em; }
+    </style>
+  </defs>
+  <!-- Icon Part -->
+  <rect x="0" y="20" width="160" height="160" rx="40" fill="#C75B39"/>
+  <text x="80" y="100" class="heading" fill="#F5F1EB" font-size="90" text-anchor="middle" dy=".35em">PS</text>
+  
+  <!-- Text Part -->
+  <text x="200" y="90" class="heading" fill="#2C2420" font-size="80">Prabhat</text>
+  <text x="200" y="160" class="heading" fill="#C75B39" font-size="80">Sharma</text>
+</svg>
