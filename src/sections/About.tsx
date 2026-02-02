@@ -100,8 +100,8 @@ export default function About() {
               {/* Main Image */}
               <div className="relative rounded-2xl overflow-hidden shadow-layered-deep">
                 <img 
-                  src="/profile-abstract.jpg" 
-                  alt="Abstract professional portrait" 
+                  src="/profile-photo.jpg" 
+                  alt="Prabhat Sharma" 
                   className="w-full h-auto object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-coffee/20 to-transparent" />
